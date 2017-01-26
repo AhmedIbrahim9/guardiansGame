@@ -1,3 +1,16 @@
+Guardians The First Journey is a strategy game project made with Java SE (Swing & atw) without any external libraries ,the game was developed by 5 sophomore computer science students :
+
+     Mohamed Eleish
+     Nour El Din
+     Mohamed Alaa
+     Omar Maysour 
+     Abdelrahman Samir
+
+as a project for the OOP (Object Oriented Programming) course supervised by Doctor Ayman Ezzat at Misr International University (MIU).
+
+Youtube gameplay link : https://youtu.be/yjjIP4xRsMo
+
+
 Instructions :
 
 1-open mainClass.java file located at Strategy Game Project V.1\src\server\mainClass.java
