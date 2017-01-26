@@ -1,4 +1,5 @@
-Guardians The First Journey is a strategy game project made with Java SE (Swing & atw) without any external libraries ,the game was developed by 5 sophomore computer science students :
+Guardians The First Journey is a strategy game project made with Java SE (Swing & atw) without any external libraries
+,the game was developed by 5 sophomore computer science students :
 
      Mohamed Eleish
      Nour El Din
@@ -6,15 +7,19 @@ Guardians The First Journey is a strategy game project made with Java SE (Swing 
      Omar Maysour 
      Abdelrahman Samir
 
-as a project for the OOP (Object Oriented Programming) course supervised by Doctor Ayman Ezzat at Misr International University (MIU).
+as a project for the OOP (Object Oriented Programming) course supervised by Doctor Ayman Ezzat 
+at Misr International University (MIU).
 
 Youtube gameplay link : https://youtu.be/yjjIP4xRsMo
 
 N.B : 
 
-1-Game Server and Strategy Game Project V1 are 2 seperate java projects ,so download and import each one seperatley on eclipse or your prefered IDE
+1-Game Server and Strategy Game Project V1 are 2 seperate java projects ,so download and import each one seperatley 
+on eclipse or your prefered IDE
 
-2-Unfortunetly due to running out of time to finish the project the user city in the game was made explicitly on a 1920 x 1080 resolution computer and most of the components were placed using a null layout which made it not appear correctly ,other than that the rest of the game appears correctly on any resolution
+2-Unfortunetly due to running out of time to finish the project the user city in the game was made explicitly on 
+a 1920 x 1080 resolution computer and most of the components were placed using a null layout which made it not 
+appear correctly ,other than that the rest of the game appears correctly on any resolution
 
 
 Instructions :
