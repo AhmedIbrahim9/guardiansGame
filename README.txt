@@ -10,6 +10,8 @@ as a project for the OOP (Object Oriented Programming) course supervised by Doct
 
 Youtube gameplay link : https://youtu.be/yjjIP4xRsMo
 
+Note : Game Server and Strategy Game Project V1 are 2 seperate java projects ,so download and import each one seperatley on eclipse or your        prefered IDE
+
 
 Instructions :
 
