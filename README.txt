@@ -19,7 +19,8 @@ on eclipse or your prefered IDE
 
 2-Unfortunetly due to running out of time to finish the project the user city in the game was made explicitly on 
 a 1920 x 1080 resolution computer and most of the components were placed using a null layout which made it not 
-appear correctly ,other than that the rest of the game appears correctly on any resolution
+appear correctly on non 1920 x 1080 resolution computers ,other than that the rest of the game
+appears correctly on any resolution
 
 
 Instructions :
